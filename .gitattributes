@@ -1,0 +1,7 @@
+*.php linguist-detectable=true
+*.css linguist-detectable=true
+*.scss linguist-detectable=true
+
+# Reduce CSS weight to prevent dominating
+*.css linguist-documentation
+*.scss linguist-documentation
