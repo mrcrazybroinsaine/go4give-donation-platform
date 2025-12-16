@@ -1,88 +1,99 @@
-Go4Give - Online Charity Platform
+# 💖 Go4Give – Online Charity Platform
 
-Go4Give is an online platform that connects Admins, Donors, and Orphanages/Old Age Homes. It manages donations, fundraisers, receipts, and feedback in a secure and user-friendly environment.
+Go4Give is an online charity platform that connects **Admins, Donors, and Orphanages / Old Age Homes**.  
+It manages donations, fundraisers, receipts, and feedback in a secure and user-friendly environment.
 
-Features:
+---
 
-Admin:
+## ✨ Features
 
-Login
+### 👩‍💼 Admin
+- Login
+- Dashboard
+- Manage Orphanages / Old Age Homes
+- Manage Fundraisers
+- Manage Locations
+- Approve / Reject Donation Requests
+- View Donors
+- View Feedback
+- View Reports
 
-Dashboard
+---
 
-Manage Orphanages/Old Age Homes
+### 🙋 Donor
+- Register & Login
+- Search by Location
+- View Orphanages / Old Age Homes
+- Choose Donation Mode & Category
+- Donate to Causes
+- View Donation Date & History
+- View Receipt
+- Give Feedback
 
-Manage Fundraisers
+---
 
-Manage Locations
+### 🏠 Orphanages / Old Age Homes
+- Register & Login
+- View Donations
+- Send Receipts
+- View Feedback
 
-Approve/Reject donation requests
+---
 
-View Donors
-
-View Feedback
-
-View Reports
-
-
-Donor:
-
-Register & Login
-
-Search Location
-
-View Orphanages/Old Age Homes
-
-Choose donation mode & category
-
-Donate to causes
-
-View donation date & history
-
-View Receipt
-
-Give Feedback
-
-
-Orphanages / Old Age Homes:
-
-Register & Login
-
-View Donations
-
-Send Receipts
-
-View Feedback
-
-
-Purpose:
-
+## 🎯 Purpose
 To provide a single online system where people can easily donate money or essential items to orphanages and old age homes across the country.
 
-Technology Used
+---
 
-Frontend: HTML, CSS, JavaScript
+## 🧠 Technology Used
 
-Backend: PHP, MySQL
+| Layer | Technology |
+|------|-----------|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | PHP |
+| Database | MySQL |
+| Local Server | XAMPP (Apache + MySQL) |
 
-Local Server: XAMPP (Apache + MySQL)
+---
 
-How to Run (XAMPP)
+## ▶️ How to Run the Project (XAMPP)
 
-1 Install XAMPP
+### 1️⃣ Install XAMPP
+Download and install **XAMPP**.
 
-2 Place project folder inside:
- 
- xampp/htdocs/
+---
 
-3 Start Apache and MySQL
+### 2️⃣ Place Project Folder
+Copy the project folder into:
 
-4 Import the database into phpMyAdmin
+```text
+xampp/htdocs/
+```
 
-5 Run the project in browser:
+---
 
-  http://localhost/Go4Give/
+### 3️⃣ Start Server
+Open XAMPP Control Panel and start:
 
-Author
+- Apache
+- MySQL
 
-Ananya S
+---
+
+### 4️⃣ Import Database
+- Open **phpMyAdmin**
+- Create a database
+- Import the provided `.sql` file
+
+---
+
+### 5️⃣ Run in Browser
+
+```text
+http://localhost/Go4Give/
+```
+
+---
+
+## 👤 Author
+**Ananya S**
